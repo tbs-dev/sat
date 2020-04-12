@@ -1,0 +1,2 @@
+# sat
+Simple accounting tool
